@@ -18,7 +18,6 @@ Get in the directory of the project
 
 open in an editing tool(Vscode recommended)
 
-
 use the following command in your CLI to run your code: 
 * npm init
 * npm start
