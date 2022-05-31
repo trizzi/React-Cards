@@ -24,6 +24,5 @@ use the following command in your CLI to run your code:
 
 After that there will be a link in display after it starts running which is http://localhost:3000/ (This link will work if the project is properly setup in your computer and run at the default react port)
 
-
 # Libraries And Frameworks Used For The Project
 * React and chakra-ui for frontend
