@@ -15,7 +15,6 @@ This is a simple reuseable card with some the option of changing the background 
 Clone this git repo: git clone (https://github.com/trizzi/React-Cards.git)
 
 Get in the directory of the project
-
 open in an editing tool(Vscode recommended)
 
 use the following command in your CLI to run your code: 
