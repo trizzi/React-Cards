@@ -1,5 +1,5 @@
 # Table Of Content
-* Project Title and Description
+* Project Title And Description
 * Project Image
 * How To Set It Up On Your Local Machine
 * Libraries And Frameworks Used For The Project
